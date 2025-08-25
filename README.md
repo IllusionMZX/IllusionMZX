@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Miao Zixiang**, an undergraduate student passionate about **Embedded Systems**, **Edge AI**, and **Deep Learning**. Currently pursuing a Bachelor's degree in Electronic and Information.
+I'm **Miao Zixiang (缪子翔)**, an undergraduate student passionate about **Embedded Systems**, **Edge AI**, and **Deep Learning**. Currently pursuing a Bachelor's degree in Electronic and Information.
 
 
 ## 🛠️ Tech Stack
