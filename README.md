@@ -36,10 +36,5 @@ I'm **Miao Zixiang (缪子翔)**, an undergraduate student passionate about **Em
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IllusionMZX&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IllusionMZX&layout=compact&langs_count=7&theme=default"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IllusionMZX&theme=default" alt="GitHub Streak" />
 </div>
