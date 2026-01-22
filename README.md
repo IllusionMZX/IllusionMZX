@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm *Meow**, an undergraduate student passionate about **Embedded Systems**, **Edge AI**, and **Deep Learning**. Currently pursuing a Bachelor's degree in Electronic and Information.
+I'm **Meow**, an undergraduate student passionate about **Embedded Systems**, **Edge AI**, and **Deep Learning**. Currently pursuing a Bachelor's degree in Electronic and Information.
 
 
 ## 🛠️ Tech Stack
