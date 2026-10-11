@@ -1,7 +1,5 @@
 # Hi there 👋
 
-I'm **Meow**, a graduate student passionate about **Embedded Systems**, **Edge AI**, and **Deep Learning**. Currently pursuing a Master's degree in Information Engineering at CUHK.
-
 
 ## 🛠️ Tech Stack
 
